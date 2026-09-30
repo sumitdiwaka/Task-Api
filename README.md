@@ -8,7 +8,7 @@ Take-home for the Full Stack Developer Intern role. The original brief is in [AS
 | **Coverage** | 99.02% statements · 95.55% branches · 97.36% functions · 98.9% lines |
 | **Bugs found** | 7 (all 7 fixed) |
 | **New feature** | `PATCH /tasks/:id/assign` |
-| **Live URL** | _add your deployed URL here_ |
+| **Live URL** | https://task-api-pied.vercel.app/tasks/stats     https://task-api-pied.vercel.app |
 
 > **How I worked:** I read the code first, then wrote the test suite describing the *correct* behaviour
 > and ran it against the **original** code. Every bug below was confirmed by a failing test
